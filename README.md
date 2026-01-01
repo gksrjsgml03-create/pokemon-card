@@ -15,4 +15,4 @@ HTML, CSS, JavaScript로 구현한 포켓몬 카드 3D 인터랙션 웹페이지
 - Git / GitHub Pages
 
 ## Demo
-👉 https://깃허브아이디.github.io/pokemon-card/
+👉 https://gksrjsgml03-create.github.io/pokemon-card/
